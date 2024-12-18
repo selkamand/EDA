@@ -14,5 +14,5 @@ Currently the shiny app itself is stored in the shiny folder of the gg1d repo.
 To update run:
 
 ```
-shinylive::export("<path_to_gg1d>/shiny/ggnd/", "<path_to_eda>/site")
+shinylive::export("<path_to_gg1d>/shiny/ggnd/", "<path_to_eda>")
 ```
